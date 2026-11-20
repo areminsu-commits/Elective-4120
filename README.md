@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="150" alt="Ashnarah Reign E. Minsu">
-
 # 🎀 GE 4120 Elective Portfolio
 
 ### ✿ Ashnarah Reign E. Minsu ✿
