@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-photo.jpg" width="150" alt="Ashnarah Reign E. Minsu">
+<img width="150" alt="Ashnarah Reign E. Minsu">
 
 # 🎀 GE 4120 Elective Portfolio
 
@@ -92,10 +92,6 @@ This activity focused on understanding and applying the basic principles of effe
 - One challenge I encountered was deciding which information to include without overcrowding the slides. I addressed this by identifying the main points and arranging supporting details in a logical order.
 - I can apply these principles when preparing nursing case presentations, classroom reports, and health education materials.
 
-## 📁 Activity Outputs
-
-The actual presentation file, screenshots, and other related outputs are included in this folder.
-
 ## ✨ Personal Reflection
 
 This activity helped me understand that a good presentation is not only about providing information but also about communicating it effectively. I realized that proper design can make a topic easier for the audience to understand.
@@ -128,10 +124,6 @@ This activity focused on selecting appropriate color palettes and typography to 
 - I understood that typography affects how information is presented and how easily people can read and understand it.
 - One challenge I encountered was choosing colors and font styles that worked well together. I addressed this by considering color harmony, contrast, readability, and consistency.
 - I can apply these concepts when designing presentations, infographics, documents, and other digital materials.
-
-## 📁 Activity Outputs
-
-The completed color palette, typography samples, screenshots, and other required outputs are included in this folder.
 
 ## ✨ Personal Reflection
 
@@ -166,10 +158,6 @@ This activity involved creating social media infographics and preparing document
 - One challenge I encountered was deciding which details were essential and how to arrange them properly. I addressed this by organizing the main ideas and selecting visuals that supported the message.
 - I can apply these skills when creating health awareness campaigns, patient education materials, and informational posts.
 
-## 📁 Activity Outputs
-
-The completed social media infographics, mini project documentation, screenshots, and other related files are included in this folder.
-
 ## ✨ Personal Reflection
 
 This activity allowed me to explore how visual materials can make information more engaging and understandable. As a nursing student, I realized that infographics can also be useful in sharing health information and promoting awareness.
@@ -203,10 +191,6 @@ This activity involved a collaborative classroom reporting task in which the cla
 - One challenge in group reporting was combining information and presenting it in an organized way. Proper preparation, communication, and task assignments can help address this.
 - I can use Google applications in my academic activities, especially when working on group projects, sharing documents, preparing reports, and organizing files.
 
-## 📁 Activity Outputs
-
-The group presentation, research materials, screenshots, and other related files are included in this folder.
-
 ## ✨ Personal Reflection
 
 This activity helped me appreciate the usefulness of digital applications in collaborative learning. I also realized that knowing how to use these tools can make school-related tasks more organized and efficient.
@@ -239,10 +223,6 @@ This activity focused on exploring artificial intelligence tools, particularly A
 - I understood that adding specific descriptions about the subject, setting, style, and other details can help guide the AI tool toward the desired output.
 - One challenge I encountered was getting an image that matched my original idea. I addressed this by improving the prompt and providing clearer and more specific instructions.
 - I can apply this knowledge when exploring AI tools for brainstorming, creating visual materials, and supporting academic projects.
-
-## 📁 Activity Outputs
-
-The original prompt, improved prompt, generated images, comparison materials, and other required outputs are included in this folder.
 
 ## ✨ Personal Reflection
 
@@ -289,12 +269,6 @@ The website follows a soft pastel aesthetic, using baby pink, lavender, butter y
 
 **Development Platform:** Replit
 
-**Website Link:** [Insert your actual Replit website link here](#)
-
-## 📁 Activity Outputs
-
-The website source code, screenshots, and project documentation are included in this folder.
-
 ## ✨ Personal Reflection
 
 This activity allowed me to explore website creation and express my creativity through digital design. Although my main academic background is nursing, I realized that learning basic website development can also help me develop problem-solving skills and become more familiar with technology.
@@ -327,10 +301,6 @@ This activity focused on comparative resume generation using two Large Language 
 - I understood the importance of organizing personal information, educational backgrounds, skills, and qualifications in a professional and readable format.
 - One challenge was determining which generated resume communicated the information more effectively. I addressed this by comparing the outputs based on readability, organization, design, and relevance.
 - I can apply this knowledge when preparing professional documents for future opportunities, while ensuring that all personal information and qualifications are accurate.
-
-## 📁 Activity Outputs
-
-The two generated resumes, comparison results, screenshots, and other related documentation are included in this folder.
 
 ## ✨ Personal Reflection
 
